@@ -13,6 +13,5 @@ The purpose of this program is to get practice using github in visual studio cod
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [GitHub walkthrough](https://video.byui.edu/media/t/1_zyyx43ke)
 * [YouTube walkthrough](https://support.google.com/youtube/answer/57407)
